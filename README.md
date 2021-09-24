@@ -34,5 +34,10 @@ $ terraform init
 
 
 ```
-terraform apply
+
+```
+
+$ terraform apply
+
+```
 
